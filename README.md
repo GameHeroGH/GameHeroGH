@@ -13,7 +13,7 @@ I am new to GitHub so I might have problems here and there, but I will eventuall
 * Books (Reading graphic novels and art books such as Solo Leveling (the graphic novel version), .hack, Dog Man, The Art of Invincible (Season 1), etc.)
 * Languages (Learning Japanese, Korean, Chinese, Spanish, Italian, German, French on Duolingo)
 * 3D Modeling (Creating 3D models in Blockbench and Blender)
-## My Social Media Accounts!
+## My Social Media Accounts! 💻📱
 
 These are my accounts! I use them to post things either for fun or to build an career, and I'm more active on sites like Newgrounds.
 * Newgrounds (https://gameherostudios.newgrounds.com/)
