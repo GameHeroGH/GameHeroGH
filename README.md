@@ -25,3 +25,4 @@ These are my accounts! I use them to post things either for fun or to build an c
 * ArtFight (https://artfight.net/~GameHero)
 * Cara (https://cara.app/gamehero)
 * Bandcamp (https://gameheromusic.bandcamp.com/)
+* Itch.io (https://gameheronextro.itch.io/)
