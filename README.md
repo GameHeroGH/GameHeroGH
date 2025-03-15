@@ -1,6 +1,6 @@
 ## Introduction! 👋
 
-Hi! My name is James Hall. I'm knownonline as GameHero!
+Hi! My name is James Hall. I'm known online as GameHero!
 I'm an artist who currently learning the basics of developing a video game, along with learning to compose music and to become an animator, as well as being a programmer.
 I am also a gamer who is a fan of Nintendo since 2008-2010.
 I am new to GitHub so I might have problems here and there, but I will eventually get better at this.
